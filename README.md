@@ -1,5 +1,5 @@
 # Collaborators
-1. arnavle1998@gmail.com
+1. aditnavle@gmail.com
 2. sachinsaroj066@gmail.com
 3. vedantdumbre0706@gmail.com
 4. cliftonlobo09@gmail.com
